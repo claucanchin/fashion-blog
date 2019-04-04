@@ -1,0 +1,49 @@
+body {
+	padding: 100px 260px;
+}
+
+header {
+	padding-bottom: 50px;
+}
+
+h1 > a {
+	color: #E24D42;
+	font-family: "Open Sans";
+	font-size: 50px;
+}
+
+h2 {
+	color: #3E3E3E;
+}
+
+nav > a {
+	color: #E6E6E6;
+	text-decoration: underline;
+	padding-right: 15px;
+}
+
+h3 {
+	color: #777777;
+}
+
+h2 > a {
+	color: #3E3E3E;
+}
+
+p {
+	color: #9B9B9B;
+}
+
+h4 > a {
+	color: #E24D42;
+	text-align: right;
+}
+
+h4 {
+	text-align: right;
+}
+
+div {
+	font-family: "Roboto";
+	font-size: 60px;
+}
